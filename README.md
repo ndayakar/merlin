@@ -1,1 +1,1 @@
-echo "# merlin" >> README.md
+ README.md
